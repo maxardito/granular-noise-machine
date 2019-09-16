@@ -23,7 +23,6 @@ PortAudio
 libsndfile
 ncurses
 
-==============================
 How to install libraries (Mac OSX)
 ---------------------------
 PortAudio:
