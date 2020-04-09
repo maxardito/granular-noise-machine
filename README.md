@@ -14,7 +14,7 @@ Grain length is random between 1 and 1000 frames for each grain
 
 ==============================
 
-How to compile: make
+How to compile: `make`
 
 ==============================
 
@@ -27,14 +27,14 @@ How to install libraries (Mac OSX)
 ---------------------------
 PortAudio:
 
-cd PortAudio
-cp portaudio.h /usr/local/include
-cp libportaudio.dylib /usr/local/lib
+`cd PortAudio`
+`cp portaudio.h /usr/local/include`
+`cp libportaudio.dylib /usr/local/lib`
 
 ---------------------------
 libsndfile:
 
-brew install libsndfile
+`brew install libsndfile`
 
 ---------------------------
 
@@ -44,6 +44,6 @@ ncurses already installed on Mac OSX
 
 Command Line Syntax
 
-./granular violino.wav
+`./granular violino.wav`
 
 (or any other wav file of your choice!)
